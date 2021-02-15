@@ -1,7 +1,7 @@
 body{
     font-size:32px;
      font-family: 'Inter', sans-serif;
-     background-image: url(images/pattern-bg.svg);
+     background-image: url(pattern-bg.svg);
      background-repeat: no-repeat;
      background-position: right;
 }
@@ -39,7 +39,7 @@ button{
      
 }
 .and{
-    background-image: url(images/pattern-curve.svg);
+    background-image: url(pattern-curve.svg);
     width:100%;
     height: 100px;
     background-repeat: no-repeat;
@@ -48,7 +48,7 @@ button{
     padding: 20px;
 }
 .first{
-    background-image: url(images/pattern-quotes.svg);
+    background-image: url(pattern-quotes.svg);
     background-repeat: no-repeat;
 }
 @media(max-width:375px){
